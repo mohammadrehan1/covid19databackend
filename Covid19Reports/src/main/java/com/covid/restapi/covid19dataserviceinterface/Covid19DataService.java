@@ -1,4 +1,4 @@
-package com.covid.restapi.covid19data.serviceinterface;
+package com.covid.restapi.covid19dataserviceinterface;
 
 import java.util.List;
 

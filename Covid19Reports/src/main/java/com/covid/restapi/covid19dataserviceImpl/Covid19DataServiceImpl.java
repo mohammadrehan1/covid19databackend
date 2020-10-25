@@ -1,4 +1,4 @@
-package com.covid.restapi.covid19data.serviceImpl;
+package com.covid.restapi.covid19dataserviceImpl;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -11,7 +11,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
-import com.covid.restapi.covid19data.serviceinterface.Covid19DataService;
+import com.covid.restapi.covid19dataserviceinterface.Covid19DataService;
 import com.covid.restapi.entity.CovidReport;
 
 @Service

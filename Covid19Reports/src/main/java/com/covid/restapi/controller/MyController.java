@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.servlet.function.ServerRequest.Headers;
 
-import com.covid.restapi.covid19data.serviceImpl.Covid19DataServiceImpl;
+import com.covid.restapi.covid19dataserviceImpl.Covid19DataServiceImpl;
 import com.covid.restapi.entity.CovidReport;
 
 @RestController
